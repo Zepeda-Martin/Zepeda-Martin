@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zepeda_conzeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zepeda_conzeta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/martin-de-jesus-vazquez-zepeda-60b383216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-de-jesus-vazquez-zepeda-60b383216/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/martindejesus.vazquezzepeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/martindejesus.vazquezzepeda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/martin-de-jesus-vazquez-zepeda-60b383216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-de-jesus-vazquez-zepeda-60b383216/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/martindejesus.vazquezzepeda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/martindejesus.vazquezzepeda" height="30" width="40" /></a>
 <a href="https://instagram.com/venganza_con_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venganza_con_z" height="30" width="40" /></a>
 </p>
 
