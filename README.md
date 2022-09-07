@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Zepeda</h1>
 <h3 align="center">a young developer, who is a fan of batman and ghost rider, and just wants to work in software development</h3>
 
-<p align="left"> <a href="https://twitter.com/zepeda_conzeta" target="blank"><img src="https://img.shields.io/twitter/follow/zepeda_conzeta?logo=twitter&style=for-the-badge" alt="zepeda_conzeta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/the_arkham_knig" target="blank"><img src="https://img.shields.io/twitter/follow/the_arkham_knig?logo=twitter&style=for-the-badge" alt="the_arkham_knig" /></a> </p>
 
 - 🔭 I’m currently studying on [Instituto Tecnologico de Minatitlan](http://www.minatitlan.tecnm.mx/portal/)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zepeda_conzeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zepeda_conzeta" height="30" width="40" /></a>
+<a href="https://twitter.com/the_arkham_knig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zepeda_conzeta" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/martin-de-jesus-vazquez-zepeda-60b383216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-de-jesus-vazquez-zepeda-60b383216/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/martindejesus.vazquezzepeda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/martindejesus.vazquezzepeda" height="30" width="40" /></a>
 <a href="https://instagram.com/venganza_con_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venganza_con_z" height="30" width="40" /></a>
