@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin Zepeda</h1>
 <h3 align="center">a young developer, who is a fan of batman and ghost rider, and just wants to work in software development</h3>
 
-<p align="left"> <a href="https://twitter.com/the_arkham_knig" target="blank"><img src="https://img.shields.io/twitter/follow/the_arkham_knig?logo=twitter&style=for-the-badge" alt="the_arkham_knig" /></a> </p>
+<p align="left"> <a href="https://twitter.com/the_arkham_knig" target="blank"><img src="https://img.shields.io/twitter/follow/atom_smasher_z?logo=twitter&style=for-the-badge" alt="the_arkham_knig" /></a> </p>
 
 - 🔭 I’m currently studying on [Instituto Tecnologico de Minatitlan](http://www.minatitlan.tecnm.mx/portal/)
 
 - 🌱 I’m currently learning **Full stack development**
+
+- ⚡ check out my pokedex made with HTML & CSS https://zepeda-martin.github.io/Mision-FrontEnd-JS/**
 
 - 📫 How to reach me **martinzepedaitmina@gmail.com**
 
